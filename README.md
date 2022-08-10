@@ -1,4 +1,4 @@
-# J12_rendu
+# J12_Logic
 
 Code logique sur ruby  : Caesar cipher
 
